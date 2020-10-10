@@ -5,6 +5,7 @@ import { PostList, PostEdit, PostCreate } from "./posts";
 import Dashboard from "./Dashboard";
 import authProvider from "./authProvider";
 import jsonServerProvider from "ra-data-json-server";
+//import dataProvider from "./dataProvider";
 import PostIcon from "@material-ui/icons/Book";
 import UserIcon from "@material-ui/icons/Group";
 
